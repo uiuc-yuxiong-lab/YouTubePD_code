@@ -8,6 +8,10 @@ Repository for extracting audio and running baselines for additional modalities 
 4) Install https://github.com/nttcslab/msm-mae (or any other audio feature extraction script)
 5) Run MAE_Encoder to generate video-level representations of the audio
 
+## Extracting Landmarks:
+1) Landmarks have been pre-generated and are stored in {INSERT BOX LINK}. 
+2) Download them and save under YouTubePD-data/landmarks to use landmark_classifier.ipynb
+
 ## Running baseline models:
 1) Run Baseline_Model/audio_classifier.ipynb to generate baseline results for audio after updating corresponding folder locations in the first cell
 2) Similarly tun Baseline_Model/landmark_classifier.ipynb to generate baseline results for landmarks 
