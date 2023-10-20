@@ -9,5 +9,5 @@ Repository for extracting audio and running baselines for additional modalities 
 5) Run MAE_Encoder to generate video-level representations of the audio
 
 ## Running baseline models:
-1) Simply run through Baseline_Model/mae_mc.ipynb to generate baseline results for audio
+1) Run Baseline_Model/audio_classifier.ipynb to generate baseline results for audio after updating corresponding folder locations in the first cell
 2) Similarly tun Baseline_Model/landmark_classifier.ipynb to generate baseline results for landmarks 
