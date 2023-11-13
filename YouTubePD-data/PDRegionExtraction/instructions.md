@@ -1,7 +1,7 @@
 # mmpose_PD_interpolation
 Interpolation of [mmpose](https://github.com/open-mmlab/mmpose) facial keypoint extraction for Parkinson's disease-relevant regions for video action recognition and classification, in order to detect presence of Parkinson's disease.
 
-Please follow mmpose installation instructions, and place `zitong_crop.py` into `mmpose/demo/` directory, and replace `mmpose/demo/top_down_video_demo_with_mmdet.py` and `mmpose/mmpose/core/visualization/image.py`. You can center and crop around the faces with 
+Please follow mmpose installation instructions, and place `crop.py` into `mmpose/demo/` directory, and replace `mmpose/demo/top_down_video_demo_with_mmdet.py` and `mmpose/mmpose/core/visualization/image.py`. You can center and crop around the faces with 
 ```
 python demo/zitong_crop.py \
     demo/mmdetection_cfg/faster_rcnn_r50_fpn_coco.py \
