@@ -9,7 +9,7 @@ Repository for extracting audio and running baselines for additional modalities 
 5) Run MAE_Encoder to generate video-level representations of the audio
 
 ## Extracting Landmarks:
-1) Landmarks have been pre-generated and are stored in {INSERT BOX LINK}. 
+1) Landmarks have been pre-generated and are stored in the [Box Folder]{https://uofi.box.com/s/9tl1hjy8d68lm5gur4jjmgousvy8nsan}. 
 2) Download them and save under YouTubePD-data/landmarks to use landmark_classifier.ipynb
 
 ## Running baseline models:
