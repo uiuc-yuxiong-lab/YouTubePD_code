@@ -2,8 +2,7 @@
 ## The official implementation for YouTubePD: A Multimodal Benchmark for Parkinson’s Disease Analysis
 [[project page]](https://uiuc-yuxiong-lab.github.io/YouTubePD/), [[paper pdf]](https://openreview.net/pdf?id=AIeeXKsspI)
 
-![YoutubePD Teaser](assets/youtubePD_teaser.png)
-
+<img src="assets/youtubePD_teaser.png" alt="Image Description" width="600">
 
 ## Data application
 Please apply for YouTubePD data access through the form in our [[project page]](https://uiuc-yuxiong-lab.github.io/YouTubePD/). You need to sign an ackonwledgement to have the access.
